@@ -49,6 +49,10 @@ function save() {
     saveEl.innerText += count + "-"
 }
 
+function clearHist() {
+    saveEl.innerText = " "
+}
+
 
 
 
